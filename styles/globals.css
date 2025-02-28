@@ -16,7 +16,7 @@
     --foreground: #ededed;
   }
 }
-
+s
 body {
   color: var(--foreground);
   background: var(--background);
